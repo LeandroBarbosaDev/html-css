@@ -4,8 +4,6 @@
 
 Este projeto serve como meu portfólio pessoal de desenvolvimento, demonstrando meu progresso e aprendizado contínuo nas tecnologias ensinadas.
 
----
-
 ## 📚 Cursos
 
 Aqui está a lista de cursos dos quais este repositório contém exercícios:
@@ -13,13 +11,6 @@ Aqui está a lista de cursos dos quais este repositório contém exercícios:
 <!--* **[Python 3 (Mundos 1, 2 e 3)](https://www.cursoemvideo.com/curso/python-3-mundo-1/)**: Lógica de programação e introdução à linguagem Python.-->
 * **[HTML5 e CSS3 (Módulos 1-5)](https://www.cursoemvideo.com/curso/html5-css3-modulo1/)**: Desenvolvimento de sites modernos e responsivos.
 <!--* **[JavaScript](https://www.cursoemvideo.com/curso/javascript/)**: Scripts para tornar páginas web dinâmicas e interativas.-->
-
-
-## 📂 Estrutura do Repositório
-
-O repositório está organizado em pastas, cada uma correspondendo a um exercício específico. Dentro de cada pasta, os exercícios são separados por aulas ou módulos, facilitando a navegação.
-
-##
 
 ## 🛠️ Tecnologias Utilizadas
 
