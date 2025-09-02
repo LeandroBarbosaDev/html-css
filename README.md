@@ -11,7 +11,7 @@ Aqui está a lista de cursos dos quais este repositório contém exercícios:
 * **[HTML5 e CSS3 (Módulos 1-5)](https://www.cursoemvideo.com/curso/html5-css3-modulo1/)**: Desenvolvimento de sites modernos e responsivos.<br>
 
 Lista dos Exercícios:
-* **[Exercício 01]('https://leandrobarbosadev.github.io/html-css/exercicios/ex001/index.html')**
+* <a href="https://leandrobarbosadev.github.io/html-css/exercicios/ex001/index.html" target="_blank">Exercício 001</a>
 
 <!--* **[JavaScript](https://www.cursoemvideo.com/curso/javascript/)**: Scripts para tornar páginas web dinâmicas e interativas.-->
 
